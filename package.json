@@ -8,6 +8,7 @@
   "scripts": {
     "test": "jest"
   },
+  "type": "commonjs",
   "keywords": [],
   "author": "",
   "license": "ISC",
